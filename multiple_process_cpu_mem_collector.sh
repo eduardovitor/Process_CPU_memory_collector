@@ -2,7 +2,6 @@
 
 function multiple_process_cpu_mem_collector(){
      process_name="firefox"
-     user_name='eduardo+'
      time_interval=1
      iterations=10
      i=1
